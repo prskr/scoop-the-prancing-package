@@ -1,0 +1,24 @@
+{
+    "version": "0.1.9",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/prskr/git-age/releases/download/v0.1.9/git-age_Windows_x86_64.zip",
+            "bin": [
+                "git-age.exe"
+            ],
+            "hash": "95d5e198a8fcc103bb77bc64c72015a32cbb0c77f807c26d4bb7ba2a677d3e81"
+        },
+        "arm64": {
+            "url": "https://github.com/prskr/git-age/releases/download/v0.1.9/git-age_Windows_arm64.zip",
+            "bin": [
+                "git-age.exe"
+            ],
+            "hash": "6b765686fd915300052e18608bc2b32e5d4b1db238358011453151613d758178"
+        }
+    },
+    "homepage": "https://github.com/prskr/git-age",
+    "license": "MIT",
+    "depends": [
+        "git"
+    ]
+}
