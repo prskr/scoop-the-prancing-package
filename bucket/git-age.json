@@ -1,5 +1,6 @@
 {
     "version": "0.1.8",
+    "homepage": "https://github.com/prskr/git-age",
     "architecture": {
         "64bit": {
             "url": "https://github.com/prskr/git-age/releases/download/v0.1.8/git-age_Windows_x86_64.zip",
