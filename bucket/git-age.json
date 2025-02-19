@@ -6,14 +6,14 @@
             "bin": [
                 "git-age.exe"
             ],
-            "hash": "19d627feeb07fcfebd0d3b5f55e54bba8432ce4a34296d80cb62523b1ba8fa1d"
+            "hash": "7164cae9c216c06b47600dc1f1ae7122e699ac98e6a5b8f093fa8ba3c9f671ac"
         },
         "arm64": {
             "url": "https://github.com/prskr/git-age/releases/download/v0.2.4/git-age_Windows_arm64.zip",
             "bin": [
                 "git-age.exe"
             ],
-            "hash": "28f44d54dee0af6744cd11d9f07d40d6592eba12b5e651919e94853f0e066981"
+            "hash": "60627940a8b648d5bceb7d740d45ff08509f4099247676df6bfbf556f42e0b2d"
         }
     },
     "homepage": "https://github.com/prskr/git-age",
